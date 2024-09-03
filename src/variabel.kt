@@ -5,5 +5,7 @@ fun main(args: Array<String>) {
     varVariabel = 78 // assigning second value to varVariabel
     println("Pemberian Nilai Kedua pada varVariabel = "+ varVariabel)
     val phi = 3.14
+
+    // phi = 2.5 (Jika nilai phi di ubah menjadi 2.5 maka terjadi kesalahan)
     println(phi)
 }
