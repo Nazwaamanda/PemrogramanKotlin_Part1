@@ -8,7 +8,7 @@ fun main() {
     val varDouble: Double = 3.14159265359
     val varChar: Char = 'A'
     val varBool: Boolean = true
-    val varString: String = "Kotlin"
+    val varString: String = " Belajar Kotlin"
 
     // Contoh penggunaan String Template
     println("Nilai variabel varInt adalah $varInt")
